@@ -11,13 +11,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-   <img align="center" title="Windows" alt="Rafa-Windows" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" title="Ubuntu" alt="Rafa-Ubuntu" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" title="HTML" alt="Rafa-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="Rafa-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="Rafa-Js" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Python" alt="Rafa-Python" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" title="CSharp" alt="Rafa-CSharp" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" title="Windows" alt="logo-Windows" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" title="Ubuntu" alt="logo-Ubuntu" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" title="HTML" alt="logo-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="logo-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="JavaScript" alt="logo-JavaScript" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="Python" alt="logo-Python" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" title="CSharp" alt="logo-CSharp" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="" src="https://c.tenor.com/Nz_vlGMgXV0AAAAM/done-congrats.gif">
 </div>
   

@@ -1,7 +1,6 @@
 ### Hey guys!!! I'm Rafael Jesus 👋
 
-- 🔭 I’m currently working with front-end
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working with JavaScript, HTML and CSS
 - 😄 Pronouns: He/His
 
 <div>

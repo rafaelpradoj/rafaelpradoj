@@ -1,13 +1,20 @@
-<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg" />
+<a href="https://github.com/rafaelpradoj">
+<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg"/>
+</a>
+
 <h1 align="left">Hey Guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Prado</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rafaelpradoj&color=yellow" alt="Profile views"/></p>
+<p align="left">
+<a href="https://github.com/rafaelpradoj">
+<img src="https://komarev.com/ghpvc/?username=rafaelpradoj&color=yellow" alt="Profile views"/>
+</a>
+</p>
 
 - 👨‍💻 Junior Web Developer
 - 🔭 I’m currently studying JavaScript, HTML, CSS and GIT
 - 😄 Pronouns: He/His
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,19 +27,23 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+<a href="https://github.com/rafaelpradoj">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelpradoj&show_icons=true&theme=vision-friendly-dark" alt="rafaelpradoj's stats"/>
-<br><br>  
+</a>
+
+<a href="https://github.com/rafaelpradoj">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpradoj&layout=compact&theme=vision-friendly-dark" alt="rafaelpradoj's most languages"/>
+</a>
 </p>
 
-<br><br>
+<br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="mailto:rafaelpradoj@gmail.com">

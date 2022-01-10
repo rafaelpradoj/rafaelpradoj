@@ -1,26 +1,46 @@
-### Hey guys!!! I'm Rafael Jesus 👋
+<img align="right" height="480em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg" />
+<h1 align="left">Hey Guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Prado</h1>
 
-- 🔭 I’m currently working with JavaScript, HTML, CSS, Linux and GIT
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rafaelpradoj&color=yellow" alt="Profile views"/></p>
+
+- 👨‍💻 Junior Web Developer
+- 🔭 I’m currently studying JavaScript, HTML, CSS and GIT
 - 😄 Pronouns: He/His
 
-<div>
-  <a href="https://github.com/rafaelpradoj">
-  <img height="170em" width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelpradoj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpradoj&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelpradoj&show_icons=true&theme=vision-friendly-dark" alt="rafaelpradoj's stats"/>
+<br><br>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpradoj&layout=compact&theme=vision-friendly-dark" alt="rafaelpradoj's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="mailto:rafaelpradoj@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+ </a>
   
-<div style="display: inline_block"><br>
-   <img align="center" title="Windows" alt="logo-Windows" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" title="Ubuntu" alt="logo-Ubuntu" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" title="HTML" alt="logo-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="logo-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="logo-JavaScript" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="" src="https://c.tenor.com/Nz_vlGMgXV0AAAAM/done-congrats.gif">
-</div>
+<a href="https://www.linkedin.com/in/rafaelpradoj/">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   
-  ##
-  
-  <div> 
-  <a href="mailto:rafaelpradoj@gmail.com" title="Meu email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu email"></a>
-  <a href="https://www.linkedin.com/in/rafaelpradoj/" title="Meu Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Linkedin"></a>  
-  </div>
+<a href="https://twitter.com/rafaelpradoj97">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>

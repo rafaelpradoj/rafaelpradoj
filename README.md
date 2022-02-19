@@ -11,7 +11,7 @@
 </p>
 
 - 👨‍💻 Junior Web Developer
-- 🔭 I’m currently studying JavaScript, HTML, CSS and GIT
+- 🔭 I’m currently studying JavaScript, HTML, CSS and Git
 - 😄 Pronouns: He/His
 
 <br>

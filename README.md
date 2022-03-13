@@ -1,13 +1,13 @@
 <a href="https://github.com/rafaelpradoj">
-<img align="right" height="440em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg"/>
+  <img align="right" height="440em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg"/>
 </a>
 
 <h1 align="left">Hey Guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rafael Prado</h1>
 
 <p align="left">
-<a href="https://github.com/rafaelpradoj">
-<img src="https://komarev.com/ghpvc/?username=rafaelpradoj&color=yellow" alt="Profile views"/>
-</a>
+  <a href="https://github.com/rafaelpradoj">
+    <img src="https://komarev.com/ghpvc/?username=rafaelpradoj&color=yellow" alt="Profile views"/>
+  </a>
 </p>
 
 - 👨‍💻 Junior Web Developer
@@ -32,13 +32,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/rafaelpradoj">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelpradoj&show_icons=true&theme=vision-friendly-dark" alt="rafaelpradoj's stats"/>
-</a>
+  <a href="https://github.com/rafaelpradoj">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelpradoj&show_icons=true&theme=vision-friendly-dark" alt="rafaelpradoj's stats"/>
+  </a>
 
-<a href="https://github.com/rafaelpradoj">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpradoj&layout=compact&theme=vision-friendly-dark" alt="rafaelpradoj's most languages"/>
-</a>
+  <a href="https://github.com/rafaelpradoj">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpradoj&layout=compact&theme=vision-friendly-dark" alt="rafaelpradoj's most languages"/>
+  </a>
 </p>
 
 <br>
@@ -46,12 +46,15 @@
 ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="mailto:rafaelpradoj@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:rafaelpradoj@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
  </a>
   
-<a href="https://www.linkedin.com/in/rafaelpradoj/">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/rafaelpradoj/">
+    <img align="center" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
   
-<a href="https://twitter.com/rafaelpradoj97">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/rafaelpradoj97">
+    <img align="center" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>

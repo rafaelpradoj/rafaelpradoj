@@ -48,7 +48,7 @@
 
 <p align="left" style="background:yellow">
   <a href="mailto:rafaelpradoj@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="rafaelpradoj@gmail.com">
  </a>
   
   <a href="https://www.linkedin.com/in/rafaelpradoj/">

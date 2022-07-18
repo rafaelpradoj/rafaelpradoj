@@ -1,5 +1,5 @@
 <a href="https://github.com/rafaelpradoj">
-  <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/b0937ee6ed025d969e4bac91bb68b50a/raw/988534efd949d9a5bd194c0db5a839cc0e042a5f/githubCard.svg"/>
+  <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/rafaelpradoj/ff6d006b7ca31877a1aeb02a4ce6cd20/raw/1fada26b3ead10db1210f29822c2d58a0a16a8bc/githubCard.svg"/>
 </a>
 
 <h1 align="left">Hey People <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="30px">, I'm Rafael Prado</h1>

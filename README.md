@@ -10,9 +10,15 @@
   </a>
 </p>
 
-- 👨‍💻 Junior Web Developer
+- 😄 Pronouns: He/Him/His
+
+- 🔥 Junior Web Developer using HTML, CSS, JavaScript, Bootstrap
+
 - 🔭 I’m currently studying HTML, CSS, JavaScript and Python
-- 😄 Pronouns: He/His
+
+- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap**
+
+- 👨‍💻 More at [myPortfolio](https://rafaelpradoj.github.io/portfolio/)
 
 <br>
 

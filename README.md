@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap**
 
-- 👨‍💻 More at [myPortfolio](https://rafaelpradoj.github.io/portfolio/)
+- 👨‍💻 More at [myPortfolio](https://socialtreeportfolio.netlify.app/)
 
 <br>
 
